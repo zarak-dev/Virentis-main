@@ -1,0 +1,68 @@
+{
+    "apple": {
+        "apple_scab": 0,
+        "black_rot": 1,
+        "cedar_apple_rust": 2,
+        "healthy": 3
+    },
+    "blueberry": {
+        "healthy": 4
+    },
+    "cherry_(including_sour)": {
+        "powdery_mildew": 5,
+        "healthy": 6
+    },
+    "corn_(maize)": {
+        "cercospora_leaf_spot gray_leaf_spot": 7,
+        "common_rust_": 8,
+        "northern_leaf_blight": 9,
+        "healthy": 10
+    },
+    "grape": {
+        "black_rot": 11,
+        "esca_(black_measles)": 12,
+        "leaf_blight_(isariopsis_leaf_spot)": 13,
+        "healthy": 14
+    },
+    "orange": {
+        "haunglongbing_(citrus_greening)": 15
+    },
+    "peach": {
+        "bacterial_spot": 16,
+        "healthy": 17
+    },
+    "pepper,_bell": {
+        "bacterial_spot": 18,
+        "healthy": 19
+    },
+    "potato": {
+        "early_blight": 20,
+        "late_blight": 21,
+        "healthy": 22
+    },
+    "raspberry": {
+        "healthy": 23
+    },
+    "soybean": {
+        "healthy": 24
+    },
+    "squash": {
+        "powdery_mildew": 25
+    },
+    "strawberry": {
+        "leaf_scorch": 26,
+        "healthy": 27
+    },
+    "tomato": {
+        "bacterial_spot": 28,
+        "early_blight": 29,
+        "late_blight": 30,
+        "leaf_mold": 31,
+        "septoria_leaf_spot": 32,
+        "spider_mites two-spotted_spider_mite": 33,
+        "target_spot": 34,
+        "tomato_yellow_leaf_curl_virus": 35,
+        "tomato_mosaic_virus": 36,
+        "healthy": 37
+    }
+}
